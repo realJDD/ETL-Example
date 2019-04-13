@@ -2,8 +2,10 @@
 Are baby names influenced by HR hitters?
 
 #Scope
-We will use kaggle dataset of USA names (1910-2013) and an ESPN home run leaders dataset (2012).
-we will download the names dataset into a csv format, and we will scrape the table dataset from the ESPN website.
+1. We will use kaggle dataset of USA names (1910-2013)(https://www.kaggle.com/datagov/usa-names)
+2. We will use ESPN home run leaders dataset (2012) (http://www.espn.com/mlb/stats/batting/_/year/2012/sort/homeRuns/order/true).
+
+We will download the names dataset into a csv format, and we will scrape the table dataset from the ESPN website.
 
 #until finished
 
