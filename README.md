@@ -6,13 +6,7 @@ We will use kaggle dataset of USA names (1910-2013) and an ESPN home run leaders
 we will download the names dataset into a csv format, and we will scrape the table dataset from the ESPN website.
 
 #until finished
-End with an example of getting some data out of the system or using it for a little demo
 
-Running the tests
-Explain how to run the automated tests for this system
-
-Break down into end to end tests
-Explain what these tests test and why
 
 Give an example
 And coding style tests
