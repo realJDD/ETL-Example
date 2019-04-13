@@ -1,22 +1,11 @@
-##Project Title
-One Paragraph of project description goes here
+#Project Title
+Are baby names influenced by HR hitters?
 
-##Getting Started
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+#Scope
+We will use kaggle dataset of USA names (1910-2013) and an ESPN home run leaders dataset (2012).
+we will download the names dataset into a csv format, and we will scrape the table dataset from the ESPN website.
 
-Prerequisites
-What things you need to install the software and how to install them
-
-Give examples
-Installing
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-Give the example
-And repeat
-
-until finished
+#until finished
 End with an example of getting some data out of the system or using it for a little demo
 
 Running the tests
