@@ -1,4 +1,4 @@
-# Project Title
+# Baby Names and Home Run Leaders
 Are baby names influenced by HR hitters?
 
 ## Extract
