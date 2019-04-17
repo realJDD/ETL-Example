@@ -23,4 +23,4 @@ The cleaned data will be put into a relational database (mySQL) with two tables 
 
 ### Additional Code extraction from Kaggle 
 
-![picture](ETL_Prj/kaggle_etl_example.png)
+![picture](kaggle_etl_example.PNG)
